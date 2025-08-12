@@ -1,0 +1,41 @@
+/* Reset & Base Styles */
+body {
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: #f9f9fb;
+  color: #222;
+  padding: 0;
+}
+
+/* Header */
+header {
+  background: #4f46e5;
+  color: white;
+  text-align: center;
+  padding: 20px;
+}
+
+/* Main Content */
+main {
+  padding: 20px;
+  max-width: 800px;
+  margin: auto;
+}
+
+h2 {
+  color: #4f46e5;
+}
+
+ul {
+  list-style: square;
+}
+
+/* Footer */
+footer {
+  text-align: center;
+  padding: 10px;
+  background: #e5e7eb;
+  margin-top: 20px;
+  font-size: 0.9em;
+}
+
