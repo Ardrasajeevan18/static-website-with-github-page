@@ -9,10 +9,10 @@ Deploy a simple HTML website using GitHub Pages.
 - HTML & CSS
 
 ## 🔗 Live Website
-[Click here to view](https://<your-username>.github.io/<repo-name>/)
+[Click here to view](https://ardrasajeevan18.github.io/static-website-with-github-page/)
 
 ## 📂 Repository
-[GitHub Repo Link](https://github.com/<your-username>/<repo-name>)
+[GitHub Repo Link](https://github.com/Ardrasajeevan18/static-website-with-github-page.git)
 
 ## 🚀 Steps Followed
 1. Created an `index.html` file and `style.css` for styling.
